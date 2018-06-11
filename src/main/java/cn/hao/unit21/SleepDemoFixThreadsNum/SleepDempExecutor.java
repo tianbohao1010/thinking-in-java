@@ -1,4 +1,4 @@
-package cn.hao.unit21.SleepDemoFixThreadsNum;
+package cn.hao.unit21.sleepDemoFixThreadsNum;
 
 import java.util.concurrent.ExecutorService;
 import java.util.concurrent.Executors;

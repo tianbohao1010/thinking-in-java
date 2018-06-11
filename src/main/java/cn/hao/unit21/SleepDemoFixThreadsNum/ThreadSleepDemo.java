@@ -1,4 +1,4 @@
-package cn.hao.unit21.SleepDemoFixThreadsNum;
+package cn.hao.unit21.sleepDemoFixThreadsNum;
 
 /**
  * Created by Tianbohao on 2018/6/6.

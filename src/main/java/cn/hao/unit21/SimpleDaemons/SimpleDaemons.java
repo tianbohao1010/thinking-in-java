@@ -1,4 +1,4 @@
-package cn.hao.unit21.SimpleDaemons;
+package cn.hao.unit21.simpleDaemons;
 
 import java.util.concurrent.TimeUnit;
 
@@ -13,7 +13,7 @@ public class SimpleDaemons implements Runnable {
                 TimeUnit.MILLISECONDS.sleep(100);
                 System.out.println(Thread.currentThread() + " " + this);
             } catch (InterruptedException e) {
-                System.out.println("SimpleDaemons Interrupted");
+                System.out.println("simpleDaemons Interrupted");
             }
         }
     }
